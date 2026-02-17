@@ -12,6 +12,9 @@
 - 🚀 **[cbash](https://github.com/cminhho/cbash)** — Shell productivity toolkit. Git batch ops, Docker/K8s shortcuts, AWS SSM, 200+ aliases. Bash & Zsh on macOS, Linux, WSL. [cminhho.github.io/cbash](https://cminhho.github.io/cbash/)
 - ⌘ **[homebrew-tap](https://github.com/cminhho/homebrew-tap)** — Homebrew tap for my CLI tools.
 - 🏛 **[clean-architecture-template](https://github.com/cminhho/clean-architecture-template)** — Clean Architecture + DDD example with Spring (CQRS, transactional outbox, idempotent consumer).
+- 🎵 **[Music-Manager-Exercise](https://github.com/cminhho/Music-Manager-Exercise)** — Hands-on exercise for new employees: full-stack music manager (CRUD, REST). Server: Spring + Tomcat. Client: AngularJS + Bootstrap.Music manager exercise.
+- 🎬 **[Movie-Exercise-Challenge](https://github.com/cminhho/Movie-Exercise-Challenge)** — Hands-on exercise for new hires: full-stack movie app (REST, movie management). Spring Boot + Angular 8.
+- 📄 **[resume](https://github.com/cminhho/resume)** — Resume site. [cminhho.github.io/resume](https://cminhho.github.io/resume)
 
 ## What I'm Doing
 
