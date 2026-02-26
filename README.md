@@ -17,6 +17,10 @@
 - ⌘ **[homebrew-tap](https://github.com/cminhho/homebrew-tap)** — Install my CLI tools via `brew install`.
 - 🏛 **[clean-architecture-template](https://github.com/cminhho/clean-architecture-template)** — Spring Boot + Clean Architecture, DDD, CQRS, transactional outbox.
 
+## Latest Blog Posts
+
+- [Welcome — Notes on architecture, product thinking, and engineering leadership](https://bychungho.substack.com/p/welcome) — *Feb 2026*
+
 ## Connect
 
 **[Resume](https://cminhho.github.io/resume)** · **[LinkedIn](https://www.linkedin.com/in/ho-minh-chung/)** · **Email** [hmchung92@gmail.com](mailto:hmchung92@gmail.com) · **Phone** +84 906 246 489
