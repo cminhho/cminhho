@@ -12,7 +12,7 @@
 
 ## Open Source & Projects
 
-- 🛠 **[stdout](https://github.com/cminhho/stdout)** — Fully browser-based dev utilities. [stdout-tools.web.app](https://stdout-tools.web.app/)
+- 🛠 **[stdout](https://github.com/cminhho/stdout)** — Fully browser-based dev utilities. [cminhho.github.io/stdout-site](https://cminhho.github.io/stdout-site/)
 - 🚀 **[cbash](https://github.com/cminhho/cbash)** — Shell productivity toolkit for dev ops & automation. [cminhho.github.io/cbash](https://cminhho.github.io/cbash/)
 - ⌘ **[homebrew-tap](https://github.com/cminhho/homebrew-tap)** — Install my CLI tools via `brew install`.
 - 🏛 **[clean-architecture-template](https://github.com/cminhho/clean-architecture-template)** — Spring Boot + Clean Architecture, DDD, CQRS, transactional outbox.
