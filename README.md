@@ -12,8 +12,8 @@
 
 ## Open Source & Projects
 
-- 🛠 **[stdout](https://github.com/cminhho/stdout)** — Fully browser-based dev utilities. <a href="https://cminhho.github.io/stdout-site/" target="_blank" rel="noopener noreferrer">stdout-site</a>
-- 🚀 **[cbash](https://github.com/cminhho/cbash)** — Shell productivity toolkit for dev ops & automation. <a href="https://cminhho.github.io/cbash/" target="_blank" rel="noopener noreferrer">cbash-site</a>
+- 🛠 **[stdout](https://github.com/cminhho/stdout)** — Local-first dev utilities workspace. <a href="https://cminhho.github.io/stdout-site/" target="_blank" rel="noopener noreferrer">stdout-site</a>
+- 🚀 **[cbash](https://github.com/cminhho/cbash)** — Shell productivity toolkit with smart defaults. <a href="https://cminhho.github.io/cbash/" target="_blank" rel="noopener noreferrer">cbash-site</a>
 - ⌘ **[homebrew-tap](https://github.com/cminhho/homebrew-tap)** — Install my CLI tools via `brew install`.
 - 🏛 **[clean-architecture-template](https://github.com/cminhho/clean-architecture-template)** — Spring Boot + Clean Architecture, DDD, CQRS, transactional outbox.
 
@@ -23,4 +23,4 @@
 
 ## Connect
 
-**[Resume](https://cminhho.github.io/resume)** · **[LinkedIn](https://www.linkedin.com/in/ho-minh-chung/)** · **Email** [hmchung92@gmail.com](mailto:hmchung92@gmail.com) · **Phone** +84 906 246 489
+**[Resume](https://cminhho.github.io/resume)** · **[LinkedIn](https://www.linkedin.com/in/ho-minh-chung/)** · **Email** [hmchung92@gmail.com](mailto:hmchung92@gmail.com) 
