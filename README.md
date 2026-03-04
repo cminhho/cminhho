@@ -12,8 +12,8 @@
 
 ## Open Source & Projects
 
-- 🛠 **[stdout](https://github.com/cminhho/stdout)** — Fully browser-based dev utilities. [cminhho.github.io/stdout-site](https://cminhho.github.io/stdout-site/)
-- 🚀 **[cbash](https://github.com/cminhho/cbash)** — Shell productivity toolkit for dev ops & automation. [cminhho.github.io/cbash](https://cminhho.github.io/cbash/)
+- 🛠 **[stdout](https://github.com/cminhho/stdout)** — Fully browser-based dev utilities. <a href="https://cminhho.github.io/stdout-site/" target="_blank" rel="noopener noreferrer">stdout-site</a>
+- 🚀 **[cbash](https://github.com/cminhho/cbash)** — Shell productivity toolkit for dev ops & automation. <a href="https://cminhho.github.io/cbash/" target="_blank" rel="noopener noreferrer">cbash-site</a>
 - ⌘ **[homebrew-tap](https://github.com/cminhho/homebrew-tap)** — Install my CLI tools via `brew install`.
 - 🏛 **[clean-architecture-template](https://github.com/cminhho/clean-architecture-template)** — Spring Boot + Clean Architecture, DDD, CQRS, transactional outbox.
 
